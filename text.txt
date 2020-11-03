@@ -1,7 +1,7 @@
 <<<<<<< HEAD
-"Hi"
+"Hi, Glenn"
 =======
-"Hello"
+"Hello, Glenn"
 >>>>>>> feature-1
 
-"Hello, Zziruru!"
+"Hello, Zziruru!?!"
